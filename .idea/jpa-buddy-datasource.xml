@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="c2409131-5a59-475f-9710-7fc00f4d3270" name="student" url="jdbc:mysql://localhost/Student?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.jdbc.Driver" />
+      <data-source id="e8938ea5-d920-4381-8b78-a1905d760b04" name="Student" url="jdbc:mysql://localhost:3306/Student" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="3225bedc-d16b-4e03-af6e-62f58b1a1a9b" name="dbtdsi" url="jdbc:mysql://localhost/dbtdsi?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.jdbc.Driver" />
+      <data-source id="bbc3e09c-f946-46f3-a39a-3247dc468dc2" name="studentdb" url="jdbc:mysql://localhost/dbtdsi?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="1e40a492-eb53-4644-b0b6-042b46131d07" name="dbtdsitest" url="jdbc:mysql://localhost/dbtdsi?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="3afce45c-5d57-48d9-9ec3-4e3002bca4ac" name="dbtdsi  " url="jdbc:mysql://localhost:3306/dbtdsi" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+    <data-source-infos>
+      <data-source-info id="c2409131-5a59-475f-9710-7fc00f4d3270" persistence-unit-name="Default" />
+    </data-source-infos>
+  </component>
+</project>
